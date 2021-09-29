@@ -44,24 +44,24 @@ Hablaremos sobre los distintos servicios que tiene y su uso en distintas aplicac
 1. Clone the repo
 
 ```sh
-git clone https://github.com/OscarSantos98/Building_your_First_IoT_Application_with_Flask_and_MicroPython.git
+git clone https://github.com/OscarSantos98/Intro-To-Az-TextAnalytics.git
 ```
 
-2. Abrir el archivo main.py dentro del folder py
+2. Abrir el archivo main.py dentro del folder py.
 
 3. Verificar que se tengan todos los paquetes instalados correctamente.
 
-4. Añadir endpoint y api_keys (de preferencia añadir variables de entorno y reiniciar la computadora)
+4. Añadir endpoint y api_keys (de preferencia añadir variables de entorno y reiniciar la computadora).
 
-5. Ejecutar código
+5. Ejecutar código.
 
 ### Pasos para usar datos en Microsoft Excel y Microsoft Power BI
 
-1. Abrir Microsoft Excel
+1. Abrir Microsoft Excel.
 
 2. Desde la cinta de opciones Datos en el grupo Obtener y transformar datos, importar datos de Texto/CSV y cambiar origen a UTF-8.
 
-3. Abrir Microsoft Power BI
+3. Abrir Microsoft Power BI.
 
 4. Añadir origen de datos con csv y cambiar origen a UTF-8.
 
