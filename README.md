@@ -1,10 +1,10 @@
 # Intro-To-Az-TextAnalytics
 
-> Taller impartido en Tecnolingua 2021
+> Taller impartido en [Global AI Back Together](https://www.facebook.com/azuretechfrogs/photos/a.164733232351686/208956561262686/?type=3&source=57&refid=52)
 
 El objetivo principal del taller es compartir una visión general de las capacidades de procesamiento de lenguage natural utilizando Text Analytics API de Microsoft Azure.
 
-Hablaremos sobre los distintos servicios que tiene y su uso en distintas aplicaciones.
+A lo largo del taller, se revisarán las distintas funcionalidades como extracción de frases, detección de lenguaje, entidades y particularmente análisis de sentimiento. Con la cual realizaremos ejemplos de aplicación con Python, con Microsoft Excel, Con Microsoft Power BI y dentro de un bot
 
 ## Requisitos
 
