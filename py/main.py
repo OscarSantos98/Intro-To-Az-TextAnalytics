@@ -134,7 +134,7 @@ print(positive)
 print()
 print(neutral)
 print()
-print(neutral)
+print(negative)
 
 # Create pandas DataFrames
 pos_df = pd.DataFrame(positive)
